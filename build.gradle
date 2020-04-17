@@ -61,7 +61,7 @@ jar {
 
 shadowJar {
     destinationDir = file("./")
-    baseName = 'alpasdev'
+    baseName = 'app'
     classifier = null
     version = null
 }
